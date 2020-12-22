@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 💬 [my blog](https://noto1998.gitee.io/)
+
 🌱 learning js.
+
 😄 This is Noto, always love games.
 
 <!--
