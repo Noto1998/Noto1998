@@ -4,7 +4,7 @@
 
 🌱 html, css, dom, js(es6), vue, ...etc. Keep learning!
 
-💬 here is[my blog](https://noto1998.gitee.io/).
+💬 here is [my blog](https://noto1998.gitee.io/).
 
 <!--
 - 🔭 I’m currently working on ...
