@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-💬 [my blog](https://noto1998.gitee.io/)
+😄 This is Noto, love front-end, love games.
 
-🌱 learning js.
+🌱 html, css, dom, js(es6), vue, ...etc. Keep learning!
 
-😄 This is Noto, always love games.
+💬 here is[my blog](https://noto1998.gitee.io/).
 
 <!--
 - 🔭 I’m currently working on ...
